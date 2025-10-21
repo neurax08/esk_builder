@@ -149,7 +149,7 @@ OUT_DIR="$WORKSPACE/out"
 LOGFILE="$WORKSPACE/build.log"
 
 # --- Sources (host:owner/repo@ref)
-KERNEL_REPO="github.com:ESK-Project/android_kernel_xiaomi_mt6895@16"
+KERNEL_REPO="github.com:ESK-Project/android12-5.10-gki@main"
 KERNEL_DEST="$WORKSPACE/kernel"
 ANYKERNEL_REPO="github.com:ESK-Project/AnyKernel3@android12-5.10"
 ANYKERNEL_DEST="$WORKSPACE/anykernel3"
