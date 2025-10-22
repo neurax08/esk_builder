@@ -151,7 +151,7 @@ LOGFILE="$WORKSPACE/build.log"
 # --- Sources (host:owner/repo@ref)
 KERNEL_REPO="github.com:ESK-Project/android12-5.10-gki@main"
 KERNEL_DEST="$WORKSPACE/kernel"
-ANYKERNEL_REPO="github.com:ESK-Project/AnyKernel3@android12-5.10"
+ANYKERNEL_REPO="github.com:ESK-Project/AnyKernel3@gki"
 ANYKERNEL_DEST="$WORKSPACE/anykernel3"
 KERNEL_OUT="$KERNEL_DEST/out"
 CLANG_BIN="$CLANG/bin"
